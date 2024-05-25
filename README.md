@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harsh
 - 👀 I’m interested in Web Designing
-- 🌱 I’m currently learning Web Designing 
+- 🌱 I’m currently learning Backend Technologies 
 
 - 📫 How to reach me ...
 
